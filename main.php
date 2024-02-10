@@ -4,7 +4,7 @@
     
     
 
-  <title>Bootstrap</title>
+  <title>My Company</title>
   <!--Bootstrap..getting started..option from google ....-->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
